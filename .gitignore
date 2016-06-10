@@ -45,3 +45,10 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# VS Files
+CaUpdates/obj/*
+CaUpdates/bin/*
+.vs/*
+packages/*
+CaUpdates/obj/Debug/CaUpdates.csproj.FileListAbsolute.txt
