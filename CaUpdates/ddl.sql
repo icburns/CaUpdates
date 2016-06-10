@@ -1,0 +1,6 @@
+﻿CREATE TABLE dbo.CaStateResults (
+	Id INT NOT NULL IDENTITY PRIMARY KEY
+	,BernieVotes INT NOT NULL
+	,ClintonVotes INT NOT NULL
+	,UpdatedAt DATETIME2 NOT NULL
+)

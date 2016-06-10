@@ -1,0 +1,8 @@
+c:\users\ianb\documents\visual studio 2015\Projects\CaUpdates\CaUpdates\bin\Debug\CaUpdates.exe.config
+c:\users\ianb\documents\visual studio 2015\Projects\CaUpdates\CaUpdates\bin\Debug\CaUpdates.exe
+c:\users\ianb\documents\visual studio 2015\Projects\CaUpdates\CaUpdates\bin\Debug\CaUpdates.pdb
+c:\users\ianb\documents\visual studio 2015\Projects\CaUpdates\CaUpdates\bin\Debug\Newtonsoft.Json.dll
+c:\users\ianb\documents\visual studio 2015\Projects\CaUpdates\CaUpdates\bin\Debug\Newtonsoft.Json.xml
+c:\users\ianb\documents\visual studio 2015\Projects\CaUpdates\CaUpdates\obj\Debug\CaUpdates.csprojResolveAssemblyReference.cache
+c:\users\ianb\documents\visual studio 2015\Projects\CaUpdates\CaUpdates\obj\Debug\CaUpdates.exe
+c:\users\ianb\documents\visual studio 2015\Projects\CaUpdates\CaUpdates\obj\Debug\CaUpdates.pdb
